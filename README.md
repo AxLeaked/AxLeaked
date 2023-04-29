@@ -1,4 +1,4 @@
-Hey, What's up? I'm alex lol.. I'm 16 years old and i've been coding since 2018
+Hey, What's up? I'm alex lol.. I'm 16 and i've been coding since 2018
 -----
 Saluttt moi c'est alexander, j'ai 16 ans et J'ai commencé à coder en 2018
 <br> SQL, Json and Local storage >> 
